@@ -1,5 +1,5 @@
-socket
-======
+Python Socket Server
+====================
 
 A simple Python socket program for a Network Security class.
 
